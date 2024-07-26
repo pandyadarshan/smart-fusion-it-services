@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/smart-fusion-it-services/static/css/main.1ec95550.css",
+    "main.js": "/smart-fusion-it-services/static/js/main.842c803a.js",
+    "static/media/desigining.gif": "/smart-fusion-it-services/static/media/desigining.0d5ed0ef0c06f26f0533.gif",
+    "static/media/marketing.gif": "/smart-fusion-it-services/static/media/marketing.31e1c1d600a8381be7bf.gif",
+    "static/media/ads.gif": "/smart-fusion-it-services/static/media/ads.e90c608e6c8278aa100d.gif",
+    "static/media/webdevelopment.gif": "/smart-fusion-it-services/static/media/webdevelopment.2380e25cffc0ddbee637.gif",
+    "static/media/main-banner3.jpg": "/smart-fusion-it-services/static/media/main-banner3.a8eaf1750bc481a6defd.jpg",
+    "static/media/group.png": "/smart-fusion-it-services/static/media/group.6d6a3ab7b4b01efdbc5e.png",
+    "static/media/webhosting.gif": "/smart-fusion-it-services/static/media/webhosting.76eadf9382025c21897a.gif",
+    "static/media/seo.gif": "/smart-fusion-it-services/static/media/seo.1a0e41e3a2dfe741d391.gif",
+    "static/media/pc.png": "/smart-fusion-it-services/static/media/pc.c3719eda47fb16b67a31.png",
+    "static/media/windows-app.png": "/smart-fusion-it-services/static/media/windows-app.28a4aba08f5cef0061b1.png",
+    "static/media/sf1.png": "/smart-fusion-it-services/static/media/sf1.59b842147be0ee2b2958.png",
+    "static/media/web-development.jpg": "/smart-fusion-it-services/static/media/web-development.fcec69c7c1eeec39215d.jpg",
+    "static/media/windowsapplication.gif": "/smart-fusion-it-services/static/media/windowsapplication.7a1e6a0331288a71123b.gif",
+    "static/media/social-media.webp": "/smart-fusion-it-services/static/media/social-media.ba069cd5721f0f0d30c5.webp",
+    "static/media/ads.jpg": "/smart-fusion-it-services/static/media/ads.fa8fccd196707e05cf6d.jpg",
+    "static/media/seo.webp": "/smart-fusion-it-services/static/media/seo.c9323248d0072272d034.webp",
+    "static/media/web-hosting.jpg": "/smart-fusion-it-services/static/media/web-hosting.56364dd28775653589ea.jpg",
+    "static/media/web-desiging.webp": "/smart-fusion-it-services/static/media/web-desiging.286c70ca8233904254f1.webp",
+    "index.html": "/smart-fusion-it-services/index.html",
+    "main.1ec95550.css.map": "/smart-fusion-it-services/static/css/main.1ec95550.css.map",
+    "main.842c803a.js.map": "/smart-fusion-it-services/static/js/main.842c803a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ec95550.css",
+    "static/js/main.842c803a.js"
+  ]
+}
