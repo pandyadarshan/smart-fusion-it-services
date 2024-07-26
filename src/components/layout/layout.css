@@ -1,0 +1,123 @@
+ 
+
+
+    .header-inner {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        padding: 0rem 1rem;
+        z-index: 999;
+        height: 85px;
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        transition-duration: 0.1s;
+        transition-property: all;
+
+        .banner-bg {
+            height: inherit;
+
+            .logo {
+                height: 100%;
+                width: 100%;
+                object-fit: contain;
+                scale: 0.8;
+            }
+        }
+
+        .nevbar-right-section {
+            display: flex;
+
+            .navbar-item {
+                min-width: 100px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                cursor: pointer;
+                transition-duration: 0.6s;
+                font-weight: 500;
+                letter-spacing: 1px;
+                position: relative;
+
+            
+
+                &:hover {
+                    box-shadow: inset 0px -5px 0px 0px #007bff;
+                    transition-duration: 0.3s;
+                }
+            }
+
+            .navbar-item.active {
+                box-shadow: inset 0px -5px 0px 0px #007bff;
+                transition-duration: 0.3s;
+            }
+        }
+
+    }
+
+    .header-inner.light {
+        background-color: white;
+        color: black;
+
+        .navbar-item {}
+    }
+    .header-inner.gray-bg{
+        background-color: #000000;
+    }
+    
+
+    .footer{
+        margin-top: 3rem;
+        /* background-color: #f7f7f7;
+        color: black; */
+        background-color: #000000;
+        color: white;
+        padding: 2rem;
+        .footer-inner{
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr  1fr;
+            gap: 1rem;
+            .address-sec{
+                .address-item{
+                    font-size: 15px;
+margin-bottom: 15px;
+                }
+                .address-item.icon{
+                    display: flex;
+                    align-items: center;
+                    gap: 1rem;
+                    i{
+                        font-size: 19px;
+                    }
+                }
+                img{
+                    height: 100px;
+                    margin-bottom: 15px;
+                }
+            }
+            .header{
+                font-weight: bold;
+                font-size: 18px;
+            }
+            .list-item{
+                margin-bottom: 15px;
+                font-size: 15px;
+                cursor: pointer;
+                transition: transform 300ms;
+                -webkit-font-smoothing: antialiased;
+                backface-visibility: hidden;
+
+                &:hover{
+                    transform: translate3d(-2px, 0, 0);  
+                    transition: transform 300ms;
+                    color: var(--blue);
+                 }
+            }
+        }
+        
+    }
+ 
+
+
+
+    
