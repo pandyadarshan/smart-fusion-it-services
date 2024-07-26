@@ -67,8 +67,7 @@ export const routes = [
   },
 ];
 
-const basename = process.env.PUBLIC_URL || '/';
-// const basename = '/smart-fusion-it-services';
+const basename = '/smart-fusion-it-services';
 const router = createBrowserRouter(routes, { basename });
 function App() {
   return (
