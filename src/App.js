@@ -67,8 +67,7 @@ export const routes = [
   },
 ];
 
-const basename = '/smart-fusion-it-services';
-const router = createBrowserRouter(routes, { basename });
+const router = createBrowserRouter(routes);
 function App() {
   return (
     <div className="App">
