@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://pandyadarshan.github.io/smart-fusion-it-services/static/css/main.9e9117ed.css",
-    "main.js": "https://pandyadarshan.github.io/smart-fusion-it-services/static/js/main.10680096.js",
+    "main.css": "https://pandyadarshan.github.io/smart-fusion-it-services/static/css/main.7f0dcc41.css",
+    "main.js": "https://pandyadarshan.github.io/smart-fusion-it-services/static/js/main.ec0c36a2.js",
     "static/media/desigining.gif": "https://pandyadarshan.github.io/smart-fusion-it-services/static/media/desigining.0d5ed0ef0c06f26f0533.gif",
     "static/media/marketing.gif": "https://pandyadarshan.github.io/smart-fusion-it-services/static/media/marketing.31e1c1d600a8381be7bf.gif",
     "static/media/ads.gif": "https://pandyadarshan.github.io/smart-fusion-it-services/static/media/ads.e90c608e6c8278aa100d.gif",
@@ -21,11 +21,11 @@
     "static/media/web-hosting.jpg": "https://pandyadarshan.github.io/smart-fusion-it-services/static/media/web-hosting.56364dd28775653589ea.jpg",
     "static/media/web-desiging.webp": "https://pandyadarshan.github.io/smart-fusion-it-services/static/media/web-desiging.286c70ca8233904254f1.webp",
     "index.html": "https://pandyadarshan.github.io/smart-fusion-it-services/index.html",
-    "main.9e9117ed.css.map": "https://pandyadarshan.github.io/smart-fusion-it-services/static/css/main.9e9117ed.css.map",
-    "main.10680096.js.map": "https://pandyadarshan.github.io/smart-fusion-it-services/static/js/main.10680096.js.map"
+    "main.7f0dcc41.css.map": "https://pandyadarshan.github.io/smart-fusion-it-services/static/css/main.7f0dcc41.css.map",
+    "main.ec0c36a2.js.map": "https://pandyadarshan.github.io/smart-fusion-it-services/static/js/main.ec0c36a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e9117ed.css",
-    "static/js/main.10680096.js"
+    "static/css/main.7f0dcc41.css",
+    "static/js/main.ec0c36a2.js"
   ]
 }
