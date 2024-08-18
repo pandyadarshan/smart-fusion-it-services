@@ -1,5 +1,5 @@
 import "./App.css";
-import React from 'react';
+import React from "react";
 import Layout from "./components/layout";
 import {
   createBrowserRouter,
@@ -55,13 +55,6 @@ export const routes = [
       {
         path: "/skills",
         element: <Skills />,
-        children: [
-          { path: "frontend", element: <Frontend /> },
-          { path: "backend", element: <Backend /> },
-          { path: "designing", element: <Desigining /> },
-          { path: "others", element: <Others /> },
-          { path: "web-hosting", element: <WebHostingSkill /> },
-        ],
       },
     ],
   },
